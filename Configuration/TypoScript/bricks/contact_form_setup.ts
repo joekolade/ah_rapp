@@ -1,11 +1,9 @@
 lib {
     contactform = FLUIDTEMPLATE
     contactform {
-        templateName = Contactform
+        template = FILE
+        template.file = EXT:ah_rapp/Resources/Private/Templates/Contactform.html
 
-        templateRootPaths {
-            10 = EXT:ah_rapp/Resources/Private/Templates/
-        }
 
 #        variables {
 #            form < styles.content.get
