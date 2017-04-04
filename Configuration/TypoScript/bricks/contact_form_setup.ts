@@ -1,7 +1,7 @@
 lib {
     contactform = FLUIDTEMPLATE
     contactform {
-        file = EXT:ah_rapp/Resources/Private/Templates/Contactform.html
+        file = typo3conf/ext/ah_rapp/Resources/Private/Templates/Contactform.html
 
         variables {
             form < styles.content.get
