@@ -1,1 +1,1 @@
-<INCLUDE_TYPOSCRIPT: source="FILE: EXT:ah_rapp/Configuration/TypoScript/">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:ah_rapp/Configuration/TypoScript/setup.ts">
