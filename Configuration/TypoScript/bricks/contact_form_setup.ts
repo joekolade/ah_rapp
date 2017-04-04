@@ -1,7 +1,11 @@
 lib {
     contactform = FLUIDTEMPLATE
     contactform {
-        file = EXT:ah_rapp/Resources/Private/Templates/Contactform.html
+        templateName = Contactform
+
+        templateRootPaths {
+            10 = EXT:ah_rapp/Resources/Private/Templates
+        }
 
 #        variables {
 #            form < styles.content.get
@@ -9,9 +13,6 @@ lib {
 #            form.select.uidInList = {$ah_rapp.settings.contactform.ceuid}
 #        }
     }
-
-    contactform = TEXT
-    contactform.value = Maybe this way
 }
 
 lib.contactbar.20 < lib.contactform

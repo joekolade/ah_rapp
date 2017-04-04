@@ -4,7 +4,6 @@
     <list default="true" id="df29da16-58d3-4463-aabe-df89efaa7629" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Configuration/TypoScript/bricks/contact_form_setup.ts" afterPath="$PROJECT_DIR$/Configuration/TypoScript/bricks/contact_form_setup.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Configuration/TypoScript/constants.ts" afterPath="$PROJECT_DIR$/Configuration/TypoScript/constants.ts" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,8 +30,8 @@
       <file leaf-file-name="contact_form_setup.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/bricks/contact_form_setup.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+            <state relative-caret-position="210">
+              <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -351,7 +350,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1491335345213</updated>
-      <workItem from="1491335346402" duration="2616000" />
+      <workItem from="1491335346402" duration="2745000" />
     </task>
     <task id="LOCAL-00001" summary="Initial things">
       <created>1491336325529</created>
@@ -444,11 +443,18 @@
       <option name="project" value="LOCAL" />
       <updated>1491338114257</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Contactform start">
+      <created>1491338378488</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1491338378488</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2616000" />
+    <option name="totallyTimeSpent" value="2745000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -587,8 +593,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/bricks/contact_form_setup.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="38" lean-forward="false" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding />
         </state>
       </provider>
