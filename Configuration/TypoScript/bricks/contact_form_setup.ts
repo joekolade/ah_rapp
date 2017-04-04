@@ -1,15 +1,8 @@
 lib {
-    contactform = FLUIDTEMPLATE
+    contactform  < styles.content.get
     contactform {
-        template = FILE
-        template.file = EXT:ah_rapp/Resources/Private/Templates/Contactform.html
-
-
-#        variables {
-#            form < styles.content.get
-#            form.select.pidInList = {$ah_rapp.settings.contactform.pid}
-#            form.select.uidInList = {$ah_rapp.settings.contactform.ceuid}
-#        }
+        select.pidInList = {$ah_rapp.settings.contactform.pid}
+        select.uidInList = {$ah_rapp.settings.contactform.ceuid}
     }
 }
 
