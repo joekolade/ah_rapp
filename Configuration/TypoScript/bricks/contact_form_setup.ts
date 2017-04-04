@@ -1,13 +1,13 @@
 lib {
     contactform = FLUIDTEMPLATE
     contactform {
-        file = typo3conf/ext/ah_rapp/Resources/Private/Templates/Contactform.html
+        file = EXT:ah_rapp/Resources/Private/Templates/Contactform.html
 
-        variables {
-            form < styles.content.get
-            form.select.pidInList = {$site.ah_rapp.contactform.pid}
-            form.select.uidInList = {$site.ah_rapp.contactform.ceuid}
-        }
+#        variables {
+#            form < styles.content.get
+#            form.select.pidInList = {$site.ah_rapp.contactform.pid}
+#            form.select.uidInList = {$site.ah_rapp.contactform.ceuid}
+#        }
     }
 }
 
