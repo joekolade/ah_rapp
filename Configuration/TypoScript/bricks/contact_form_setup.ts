@@ -3,7 +3,7 @@ lib {
     contactform {
         #select.pidInList = {$ah_rapp.settings.contactform.pid}
         #select.insertData = 1
-        select.uidInList = {$ah_rapp.settings.contactform.ceuid}
+        select.uidInList = 146
     }
 }
 
