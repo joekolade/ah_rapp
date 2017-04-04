@@ -1,2 +1,3 @@
-lib.contactform = TEXT
-lib.contactform.value = try
+page.10.variables {
+    contactform <
+}
