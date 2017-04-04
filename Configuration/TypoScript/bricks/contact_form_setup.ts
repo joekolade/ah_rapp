@@ -13,4 +13,5 @@ lib {
     }
 }
 
+lib.contactbar = COA
 lib.contactbar.20 < lib.contactform
