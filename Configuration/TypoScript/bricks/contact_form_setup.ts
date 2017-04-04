@@ -1,4 +1,4 @@
-page.10.variables {
+lib {
     contactform = FLUIDTEMPLATE
     contactform {
         file = EXT:ah_rapp/Resources/Private/Templates/Contactform.html
@@ -10,3 +10,5 @@ page.10.variables {
         }
     }
 }
+
+lib.contactbar.20 < lib.contactform
