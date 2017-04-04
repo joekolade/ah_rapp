@@ -2,8 +2,9 @@
 // Site "Namespace"
 //
 
-site.ah_rapp {
-
-    contactform.pid = 95
-    contactform.ceuid = 146
+ah_rapp {
+    settings {
+        contactform.pid = 95
+        contactform.ceuid = 146
+    }
 }
