@@ -1,0 +1,1 @@
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:ah_rapp/Configuration/TypoScript/bricks/contatc_form_setup.ts">
