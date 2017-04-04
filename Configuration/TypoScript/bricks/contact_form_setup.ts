@@ -4,7 +4,7 @@ lib {
         templateName = Contactform
 
         templateRootPaths {
-            10 = EXT:ah_rapp/Resources/Private/Templates
+            10 = EXT:ah_rapp/Resources/Private/Templates/
         }
 
 #        variables {
