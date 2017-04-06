@@ -1,5 +1,5 @@
 page {
-    incudeCSS {
+    includeCSS {
         ah_rapp_powermail = EXT:ah_rapp/Resources/Public/Css/ahrapp_powermail.css
     }
 }
