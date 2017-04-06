@@ -12,7 +12,7 @@
 /* Tabs */
 
 .powermail_tab_navigation a {
-    text-transform: none;
+    text-transform: none !important;
 }
 .powermail_fieldset_1 .powermail_tab_navigation a:after {
     content: ' zurück';
