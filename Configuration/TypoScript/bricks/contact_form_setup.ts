@@ -18,11 +18,3 @@ lib.contactbar.20 < lib.contactform
 lib.contactbar.20 {
     wrap = <div class="col-sm-6 hidden-xs">|</div>
 }
-
-// Powermail settings
-//
-
-plugin.tx_powermail.settings.misc.ajaxSubmit = 1
-
-plugin.tx_powermail.settings.styles.bootstrap.offsetClasses =
-plugin.tx_powermail.settings.styles.framework.offsetClasses =

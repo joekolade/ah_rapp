@@ -8,3 +8,6 @@ ah_rapp {
         contactform.ceuid = 146
     }
 }
+
+
+<INCLUDE_TYPOSCRIPT: source="FILE: EXT:ah_rapp/Configuration/TypoScript/bricks/contact_form_constants.ts">
