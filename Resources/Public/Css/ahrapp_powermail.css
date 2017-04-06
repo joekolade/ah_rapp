@@ -8,3 +8,17 @@
 .tx-powermail .btn-group {
     margin-bottom: 15px;
 }
+
+/* Tabs */
+
+.powermail_tab_navigation a {
+    text-transform: none;
+}
+.powermail_fieldset_1 .powermail_tab_navigation a:after {
+}
+    content: ' zurück';
+}
+
+.powermail_fieldset_2 .powermail_tab_navigation a:before {
+    content: 'weiter ';
+}
