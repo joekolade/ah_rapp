@@ -21,3 +21,6 @@
 .powermail_fieldset_2 .powermail_tab_navigation a:before {
     content: 'weiter ';
 }
+.powermail_fieldset:first-of-type .powermail_tab_navigation a {
+    margin-right: 17.666666%;
+}
