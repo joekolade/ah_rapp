@@ -8,6 +8,6 @@ span.important {
     color: black;
 }
 
-.panel-heading .img-left.img-below {
+.panel-heading + div .img-left.img-below {
     margin-top: 0;
 }
