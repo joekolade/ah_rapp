@@ -31,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <caret line="10" column="55" lean-forward="false" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
               <folding />
             </state>
           </provider>
@@ -333,7 +333,7 @@
       <workItem from="1491335346402" duration="4315000" />
       <workItem from="1491507840787" duration="2432000" />
       <workItem from="1491935670224" duration="1154000" />
-      <workItem from="1493394417735" duration="403000" />
+      <workItem from="1493394417735" duration="447000" />
     </task>
     <task id="LOCAL-00001" summary="Initial things">
       <created>1491336325529</created>
@@ -629,11 +629,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493396293660</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Styles">
+      <created>1493396336565</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1493396336565</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8304000" />
+    <option name="totallyTimeSpent" value="8348000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -795,7 +802,7 @@
     <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <caret line="10" column="55" lean-forward="false" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
           <folding />
         </state>
       </provider>
