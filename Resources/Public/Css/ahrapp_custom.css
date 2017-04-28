@@ -7,3 +7,7 @@ span.important {
     background: hotpink;
     color: black;
 }
+
+.panel-heading .img-left.img-below {
+    margin-top: 0;
+}
