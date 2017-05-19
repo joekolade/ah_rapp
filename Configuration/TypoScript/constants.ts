@@ -1,4 +1,3 @@
-
 // EXT
 //
 
@@ -29,10 +28,17 @@ styles.content.imgtext.layoutKey = picture
 styles.content.imgtext.maxWInText = 1140
 styles.content.textmedia.maxWInText = 1140
 
+// ext:powermail
+//
+
+plugin.tx_powermail {
+    view.templateRootPath = EXT:ah_rapp/Resources/Extensions/powermail/Templates/
+    view.partialRootPath = EXT:ah_rapp/Resources/Extensions/powermail/Partials/
+    view.layoutRootPath = EXT:ah_rapp/Resources/Extensions/powermail/Layouts/
+}
 
 // ext:scriptmerger
 //
-
 
 plugin.tx_scriptmerger.css.enable = 1
 plugin.tx_scriptmerger.css.compress.enable = 0
@@ -42,7 +48,6 @@ plugin.tx_scriptmerger.css.compress.enable = 0
 plugin.tx_scriptmerger.javascript.enable = 1
 plugin.tx_scriptmerger.javascript.compress.enable = 0
 plugin.tx_scriptmerger.javascript.parseBody = 1
-
 
 // ext:sourceopt
 //
