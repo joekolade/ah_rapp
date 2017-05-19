@@ -20,8 +20,8 @@
       <file leaf-file-name="constants.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/constants.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="600">
+              <caret line="40" column="98" lean-forward="false" selection-start-line="40" selection-start-column="98" selection-end-line="40" selection-end-column="98" />
               <folding />
             </state>
           </provider>
@@ -453,11 +453,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495185273505</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="scriptmerger">
+      <created>1495186242621</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1495186242621</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3555000" />
+    <option name="totallyTimeSpent" value="3590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1438" height="905" extended-state="0" />
@@ -488,7 +495,8 @@
     <MESSAGE value="gitkeep" />
     <MESSAGE value="fsc" />
     <MESSAGE value="responsive images" />
-    <option name="LAST_COMMIT_MESSAGE" value="responsive images" />
+    <MESSAGE value="scriptmerger" />
+    <option name="LAST_COMMIT_MESSAGE" value="scriptmerger" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -670,8 +678,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/constants.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="600">
+          <caret line="40" column="98" lean-forward="false" selection-start-line="40" selection-start-column="98" selection-end-line="40" selection-end-column="98" />
           <folding />
         </state>
       </provider>

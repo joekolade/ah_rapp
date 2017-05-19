@@ -34,3 +34,11 @@ plugin.tx_scriptmerger.javascript.enable = 1
 plugin.tx_scriptmerger.javascript.compress.enable = 0
 plugin.tx_scriptmerger.javascript.parseBody = 1
 
+
+// ext:sourceopt
+//
+
+// https://docs.typo3.org/typo3cms/extensions/sourceopt/TyposcriptReferenceForSourceopt/Index.html
+sourceopt.enabled = 1
+sourceopt.formatHtml = 2
+sourceopt.formatHtml = 1
