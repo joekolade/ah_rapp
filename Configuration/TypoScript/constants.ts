@@ -11,9 +11,9 @@ ah_rapp {
 
 // FSC
 //
-styles.templates.layoutRootPath = EXT:ah_rapp/Resources/Private/Extensions/fsc/Layouts
-styles.templates.templateRootPath = EXT:ah_rapp/Resources/Private/Extensions/fsc/Templates
-styles.templates.partialRootPath = EXT:ah_rapp/Resources/Private/Extensions/fsc/Partials
+styles.templates.layoutRootPath = EXT:ah_rapp/Resources/Extensions/fsc/Layouts
+styles.templates.templateRootPath = EXT:ah_rapp/Resources/Extensions/fsc/Templates
+styles.templates.partialRootPath = EXT:ah_rapp/Resources/Extensions/fsc/Partials
 
 
 <INCLUDE_TYPOSCRIPT: source="FILE: EXT:ah_rapp/Configuration/TypoScript/bricks/contact_form_constants.ts">
