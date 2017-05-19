@@ -4,6 +4,7 @@ tt_content.image.20.1 {
     params = sizes="(min-width: 700px) 700px, 100vw"
 
     # Default Breakpoints
+    sourceCollection >
     sourceCollection {
         huge {
             # dataKey = extra-large
