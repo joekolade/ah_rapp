@@ -16,6 +16,12 @@ page {
 // EXT
 //
 
+// news
+plugin.tx_news.settings {
+    topNewsFirst = 1
+}
+
+
 // scriptmerger
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:scriptmerger/Configuration/setup.txt">
 // sourceopt
