@@ -3,7 +3,8 @@
   max-height: 100vh; }
 
 #contactbar {
-  overflow-y: scroll; }
+  overflow-y: scroll;
+  max-height: 90vh; }
 
 span.important {
   background: hotpink;
