@@ -44,33 +44,33 @@ tt_content.image.20.1 {
     # Default Breakpoints
     sourceCollection {
         xl {
-            dataKey = extra-large
-            width = 1200
-            srcset = 1200w
+            # dataKey = extra-large
+            maxW = 1200
+            srcsetCandidate = 1200w
         }
 
         lg {
-            data-key = large
-            width = 992
-            srcset = 992w
+            # data-key = large
+            maxW = 992
+            srcsetCandidate = 992w
         }
 
         md {
-            data-key = medium
-            width = 768
-            srcset = 768w
+            # data-key = medium
+            maxW = 768
+            srcsetCandidate = 768w
         }
 
         sm {
-            data-key = small
-            width = 480
-            srcset = 480w
+            # data-key = small
+            maxW = 480
+            srcsetCandidate = 480w
         }
 
         xs {
-            dataKey = extra-small
-            width = 320
-            srcset = 320w
+            # dataKey = extra-small
+            maxW = 320
+            srcsetCandidate = 320w
             sizes = auto
         }
     }
