@@ -1,5 +1,3 @@
-@import "ext/tx_scwcontacts";
-
 .navbar.affix {
   max-height: 100vh;
   overflow-y: scroll;
@@ -14,3 +12,11 @@ div[class^="col-"] > div > .img-below:first-child > .img-wrap,
 .panel-heading + div > .img-below:first-child .img-wrap {
   margin-top: 0;
 }
+
+// space out slider top
+.container.content {
+  margin-top: 2.5em;
+}
+
+@import "ext/ahrapp_powermail";
+@import "ext/tx_scwcontacts";
