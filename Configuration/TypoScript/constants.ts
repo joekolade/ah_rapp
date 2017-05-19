@@ -28,16 +28,6 @@ styles.content.imgtext.layoutKey = picture
 styles.content.imgtext.maxWInText = 1140
 styles.content.textmedia.maxWInText = 1140
 
-// ext:news
-//
-
-plugin.tx_news.settings {
-    list.media {
-        maxWidth = 330
-        maxHeight = 320
-    }
-}
-
 
 // ext:powermail
 //

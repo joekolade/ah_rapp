@@ -19,8 +19,12 @@ page {
 // news
 plugin.tx_news.settings {
     topNewsFirst = 1
-}
 
+    list.media {
+        maxWidth = 330
+        maxHeight = 320
+    }
+}
 
 // scriptmerger
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:scriptmerger/Configuration/setup.txt">
