@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df29da16-58d3-4463-aabe-df89efaa7629" name="Default" comment="">
+    <list default="true" id="df29da16-58d3-4463-aabe-df89efaa7629" name="Default" comment="slider">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Public/Favicon/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Public/Icons/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Public/JavaScript/.gitkeep" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ext_emconf.php" afterPath="$PROJECT_DIR$/ext_emconf.php" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_TABLE_DETAILS" value="true" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -27,11 +20,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ext_emconf.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ext_emconf.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ext_emconf.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+            <state relative-caret-position="448">
+              <caret line="30" column="41" lean-forward="true" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ahrapp_custom.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1495181045000" expanded="true" signature="317:345" ph="/*...*/" />
+                <marker date="1495181045000" expanded="true" signature="365:386" ph="{...}" />
+                <marker date="1495181045000" expanded="true" signature="413:439" ph="{...}" />
+                <marker date="1495181045000" expanded="true" signature="480:518" ph="{...}" />
+                <marker date="1495181045000" expanded="true" signature="576:604" ph="{...}" />
+                <marker date="1495181045000" expanded="true" signature="663:688" ph="{...}" />
+                <marker date="1495181045000" expanded="true" signature="752:783" ph="{...}" />
+                <marker date="1495181045000" expanded="true" signature="826:846" ph="{...}" />
+                <marker date="1495181045000" expanded="true" signature="885:954" ph="{...}" />
+                <marker date="1495181045000" expanded="true" signature="932:952" ph="{...}" />
+                <marker date="1495181045000" expanded="true" signature="992:1130" ph="{...}" />
+                <marker date="1495181045000" expanded="true" signature="1039:1062" ph="{...}" />
+                <marker date="1495181045000" expanded="true" signature="1108:1128" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ahrapp_custom.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -39,42 +76,13 @@
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="CSS File" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="Joe" />
-      </list>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ext_tables.php" />
-        <option value="$PROJECT_DIR$/ext_localconf.php" />
-        <option value="$PROJECT_DIR$/Configuration/TSconfig/usertsconfig.ts" />
-        <option value="$PROJECT_DIR$/ext_typoscript_setup.txt" />
-        <option value="$PROJECT_DIR$/ext_typoscript_constants.txt" />
-        <option value="$PROJECT_DIR$/Resources/Private/Templates/Contactform.html" />
-        <option value="$PROJECT_DIR$/Configuration/TypoScript/bricks/contact_form_constants.ts" />
-        <option value="$PROJECT_DIR$/Configuration/TypoScript/constants.ts" />
-        <option value="$PROJECT_DIR$/Resources/Public/Css/ahrapp_powermail.css" />
-        <option value="$PROJECT_DIR$/Configuration/TSconfig/pagetsconfig.ts" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css" />
-        <option value="$PROJECT_DIR$/Resources/Public/Css/ext/_tx_scwcontacts.scss" />
-        <option value="$PROJECT_DIR$/Configuration/TypoScript/bricks/contact_form_setup.ts" />
-        <option value="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss" />
-        <option value="$PROJECT_DIR$/Resources/Public/Css/ext/_ahrapp_powermail.scss" />
-        <option value="$PROJECT_DIR$/Configuration/TypoScript/setup.ts" />
-        <option value="$PROJECT_DIR$/ext_emconf.php" />
       </list>
     </option>
   </component>
@@ -84,31 +92,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
-    <include_path>
-      <path value="$USER_HOME$/dev/TYPO3s/typo3_src-7LTS" />
-    </include_path>
-  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1438" />
     <option name="height" value="905" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>AngularJS</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -155,6 +143,32 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Public" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ah_rapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ah_rapp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ahrapp_custom.scss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -255,20 +269,6 @@
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="add_unversioned_files" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Resources/Public/Css/ext" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Configuration/TypoScript/bricks" />
-    </key>
-  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -321,12 +321,6 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -357,358 +351,10 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="df29da16-58d3-4463-aabe-df89efaa7629" name="Default" comment="" />
-      <created>1491335345213</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1491335345213</updated>
-      <workItem from="1491335346402" duration="4315000" />
-      <workItem from="1491507840787" duration="2432000" />
-      <workItem from="1491935670224" duration="1154000" />
-      <workItem from="1493394417735" duration="638000" />
-      <workItem from="1493967135201" duration="6000" />
-      <workItem from="1493968912894" duration="48000" />
-      <workItem from="1493968964903" duration="8000" />
-      <workItem from="1493988983856" duration="126000" />
-      <workItem from="1495176406607" duration="2364000" />
-    </task>
-    <task id="LOCAL-00001" summary="Initial things">
-      <created>1491336325529</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1491336325529</updated>
-    </task>
-    <task id="LOCAL-00002" summary="More Initial things">
-      <created>1491336364712</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1491336364712</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Initial TS">
-      <created>1491336591972</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1491336591972</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Initial TS">
-      <created>1491336696234</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1491336696234</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Initial TS">
-      <created>1491336723894</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1491336723894</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Initial TS">
-      <created>1491336829311</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1491336829311</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Initial TS">
-      <created>1491336892934</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1491336892934</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Initial TS">
-      <created>1491336983039</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1491336983039</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Initial TS">
-      <created>1491337115773</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1491337115773</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Contactform start">
-      <created>1491337635923</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1491337635923</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Contactform start">
-      <created>1491337952718</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1491337952718</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Contactform start">
-      <created>1491338051541</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1491338051541</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Contactform start">
-      <created>1491338114257</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1491338114257</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Contactform start">
-      <created>1491338378488</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1491338378488</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Contactform start">
-      <created>1491338507721</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1491338507721</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Contactform start">
-      <created>1491338534272</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1491338534272</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Contactform start">
-      <created>1491338599068</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1491338599068</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Contactform start">
-      <created>1491338730215</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1491338730215</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Contactform start">
-      <created>1491338785097</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1491338785097</updated>
-    </task>
-    <task id="LOCAL-00020" summary="Contactform start">
-      <created>1491338836581</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1491338836581</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Contactform start">
-      <created>1491338880827</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1491338880827</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Contactform start">
-      <created>1491338985299</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1491338985299</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Contactform start">
-      <created>1491339102335</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1491339102335</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Contactform start">
-      <created>1491339151989</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1491339151989</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Contactform start">
-      <created>1491339357598</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1491339357598</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Contactform cols">
-      <created>1491507885290</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1491507885290</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Contactform cols">
-      <created>1491508105578</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1491508105578</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Powermail ajax">
-      <created>1491508117019</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1491508117019</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Powermail cols">
-      <created>1491509131989</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1491509131989</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Powermail cols">
-      <created>1491509308525</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1491509308525</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Powermail cols">
-      <created>1491509398504</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1491509398504</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Powermail cols">
-      <created>1491509525176</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1491509525176</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Powermail cols">
-      <created>1491509725115</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1491509725115</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Powermail cols">
-      <created>1491510035287</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1491510035287</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Powermail cols">
-      <created>1491510073796</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1491510073796</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Powermail stylo">
-      <created>1491511717312</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1491511717312</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Powermail stylo">
-      <created>1491512507604</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1491512507604</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Powermail stylo">
-      <created>1491512551244</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1491512551244</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Powermail stylo">
-      <created>1491512598117</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1491512598117</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Powermail stylo">
-      <created>1491512832523</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1491512832523</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Styles">
-      <created>1491945211264</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1491945211264</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Styles">
-      <created>1493396293660</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1493396293660</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Styles">
-      <created>1493396336565</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1493396336565</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Styles">
-      <created>1493396379486</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1493396379486</updated>
-    </task>
-    <task id="LOCAL-00045" summary="team rows">
-      <created>1495176948205</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1495176948205</updated>
-    </task>
-    <task id="LOCAL-00046" summary="team rows">
-      <created>1495179091296</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1495179091296</updated>
-    </task>
-    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11091000" />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="55000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1438" height="905" extended-state="0" />
@@ -733,27 +379,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Initial things" />
-    <MESSAGE value="More Initial things" />
-    <MESSAGE value="Initial TS" />
-    <MESSAGE value="Contactform start" />
-    <MESSAGE value="Contactform cols" />
-    <MESSAGE value="Powermail ajax" />
-    <MESSAGE value="Powermail cols" />
-    <MESSAGE value="Powermail stylo" />
-    <MESSAGE value="Styles" />
-    <MESSAGE value="team rows" />
-    <option name="LAST_COMMIT_MESSAGE" value="team rows" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -821,22 +446,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/bricks/contact_form_setup.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -861,14 +470,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ext/_tx_scwcontacts.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -887,8 +488,70 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ext_emconf.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        <state relative-caret-position="448">
+          <caret line="30" column="41" lean-forward="true" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495181045000" expanded="true" signature="317:345" ph="/*...*/" />
+            <marker date="1495181045000" expanded="true" signature="365:386" ph="{...}" />
+            <marker date="1495181045000" expanded="true" signature="413:439" ph="{...}" />
+            <marker date="1495181045000" expanded="true" signature="480:518" ph="{...}" />
+            <marker date="1495181045000" expanded="true" signature="576:604" ph="{...}" />
+            <marker date="1495181045000" expanded="true" signature="663:688" ph="{...}" />
+            <marker date="1495181045000" expanded="true" signature="752:783" ph="{...}" />
+            <marker date="1495181045000" expanded="true" signature="826:846" ph="{...}" />
+            <marker date="1495181045000" expanded="true" signature="885:954" ph="{...}" />
+            <marker date="1495181045000" expanded="true" signature="932:952" ph="{...}" />
+            <marker date="1495181045000" expanded="true" signature="992:1130" ph="{...}" />
+            <marker date="1495181045000" expanded="true" signature="1039:1062" ph="{...}" />
+            <marker date="1495181045000" expanded="true" signature="1108:1128" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Public/JavaScript/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Public/Icons/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Public/Favicon/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
           <folding />
         </state>
       </provider>
