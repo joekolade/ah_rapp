@@ -20,8 +20,8 @@
       <file leaf-file-name="constants.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/constants.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="38" column="71" lean-forward="false" selection-start-line="38" selection-start-column="71" selection-end-line="38" selection-end-column="71" />
+            <state relative-caret-position="363">
+              <caret line="27" column="42" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -484,11 +484,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495186394771</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="sourceopt + scriptmerger">
+      <created>1495186441603</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1495186441603</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3757000" />
+    <option name="totallyTimeSpent" value="3779000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1438" height="905" extended-state="0" />
@@ -704,8 +711,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/constants.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="38" column="71" lean-forward="false" selection-start-line="38" selection-start-column="71" selection-end-line="38" selection-end-column="71" />
+        <state relative-caret-position="363">
+          <caret line="27" column="42" lean-forward="true" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
           <folding />
         </state>
       </provider>

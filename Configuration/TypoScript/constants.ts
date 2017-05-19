@@ -36,7 +36,7 @@ styles.content.textmedia.maxWInText = 1140
 
 plugin.tx_scriptmerger.css.enable = 1
 plugin.tx_scriptmerger.css.compress.enable = 0
-plugin.tx_scriptmerger.css.merge.ignore = https://fonts.googleapis.com/
+#plugin.tx_scriptmerger.css.merge.ignore = https://fonts.googleapis.com/
 #plugin.tx_scriptmerger.css.compress.ignore = https://fonts.googleapis.com/css
 
 plugin.tx_scriptmerger.javascript.enable = 1
