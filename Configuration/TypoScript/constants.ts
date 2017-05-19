@@ -13,7 +13,7 @@ ah_rapp {
 //
 
 styles.content.imgtext.responsive = 1
-styles.content.imgtext.layoutKey = srcset
+styles.content.imgtext.layoutKey = picture
 styles.content.textmedia.maxWInText = 1140
 
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:ah_rapp/Configuration/TypoScript/bricks/contact_form_constants.ts">
