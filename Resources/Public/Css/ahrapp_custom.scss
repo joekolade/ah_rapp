@@ -14,8 +14,8 @@ div[class^="col-"] > div > .img-below:first-child > .img-wrap,
 }
 
 // space out slider top
-.container.content {
-  margin-top: 2.5em;
+body .slick-slider.slider {
+  margin-bottom: 2.5em;
 }
 
 @import "ext/ahrapp_powermail";
