@@ -1,6 +1,8 @@
 tt_content.image.20.1 {
     layoutKey = srcset
 
+    params = sizes="(min-width: 700px) 700px, 100vw"
+
     # Default Breakpoints
     sourceCollection {
         huge {
