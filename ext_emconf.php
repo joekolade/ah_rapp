@@ -28,10 +28,7 @@ $EM_CONF[$_EXTKEY] = array(
 			'opendocs' => '',
 			'recycler' => '',
             'go_maps_ext' => '',
-            'fsc_layout_wrap' => '',
-            'lib_js_lazysizes' => '', // https://github.com/joekolade/lib_js_lazysizes
             'cookieconsent2' => '',
-            'fluid_styled_responsive_images' => ''
 		),
 		'conflicts' => array(
 			//'rtehtmlarea' => ''
@@ -39,6 +36,10 @@ $EM_CONF[$_EXTKEY] = array(
 		'suggests' => array(
 			'rx_unrollsavebuttons' => '',
 			'go_maps_ext' => '',
+            'fluid_styled_content' => '',
+            'fsc_layout_wrap' => '',
+            'lib_js_lazysizes' => '', // https://github.com/joekolade/lib_js_lazysizes
+            'fluid_styled_responsive_images' => ''
 			//'frontend_editing' => '',
 		),
 	),
