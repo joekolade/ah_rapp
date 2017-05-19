@@ -21,6 +21,11 @@ div[class^="col-"] > div > .img-below:first-child > .img-wrap,
 body .slick-slider.slider {
   margin-bottom: 2.5em;
 }
+.container {
+  &.header + .content {
+    margin-top: 2.5 em;
+  }
+}
 
 
 @import "ext/ahrapp_powermail";
