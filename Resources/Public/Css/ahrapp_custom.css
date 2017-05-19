@@ -1,13 +1,24 @@
+.tx-scwcontacts .tx-scwcontacts big .row {
+  display: flex; }
+
+@media screen and (min-width: 691px) {
+  .tx-scwcontacts .row .item:nth-child(2n+1) {
+    clear: both; } }
+@media screen and (min-width: 893px) {
+  .tx-scwcontacts .row .item:nth-child(2n+1) {
+    clear: inherit; }
+  .tx-scwcontacts .row .item:nth-child(4n+1) {
+    clear: both; } }
 .navbar.affix {
-    max-height: 100vh;
-    overflow-y: scroll;
-}
+  max-height: 100vh;
+  overflow-y: scroll; }
 
 span.important {
-    background: hotpink;
-    color: black;
-}
+  background: hotpink;
+  color: black; }
 
-.panel-heading + div > .img-left.img-below:first-child .img-wrap{
-    margin-top: 0;
-}
+div[class^="col-"] > div > .img-below:first-child > .img-wrap,
+.panel-heading + div > .img-below:first-child .img-wrap {
+  margin-top: 0; }
+
+/*# sourceMappingURL=ahrapp_custom.css.map */

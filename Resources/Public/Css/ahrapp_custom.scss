@@ -1,0 +1,16 @@
+@import "ext/tx_scwcontacts";
+
+.navbar.affix {
+  max-height: 100vh;
+  overflow-y: scroll;
+}
+
+span.important {
+  background: hotpink;
+  color: black;
+}
+
+div[class^="col-"] > div > .img-below:first-child > .img-wrap,
+.panel-heading + div > .img-below:first-child .img-wrap {
+  margin-top: 0;
+}
