@@ -32,8 +32,8 @@
       <file leaf-file-name="ahrapp_custom.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="78" lean-forward="false" selection-start-line="27" selection-start-column="78" selection-end-line="27" selection-end-column="78" />
+            <state relative-caret-position="345">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -602,11 +602,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495187223937</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="ajaxloader">
+      <created>1495187412307</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1495187412307</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4673000" />
+    <option name="totallyTimeSpent" value="4745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1438" height="905" extended-state="0" />
@@ -643,7 +650,8 @@
     <MESSAGE value="fix 'ü'" />
     <MESSAGE value="powermail template" />
     <MESSAGE value="affix scroll" />
-    <option name="LAST_COMMIT_MESSAGE" value="affix scroll" />
+    <MESSAGE value="ajaxloader" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajaxloader" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -833,8 +841,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="78" lean-forward="false" selection-start-line="27" selection-start-column="78" selection-end-line="27" selection-end-column="78" />
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>

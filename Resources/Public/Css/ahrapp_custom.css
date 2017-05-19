@@ -17,9 +17,6 @@ div[class^="col-"] > div > .img-below:first-child > .img-wrap,
 body .slick-slider.slider {
   margin-bottom: 2.5em; }
 
-.slick-loading body .slick-list {
-  background-image: url("fileadmin/template_2015/dist/images/ajax-loader.gif"); }
-
 /*
     Powermail customs
  */
