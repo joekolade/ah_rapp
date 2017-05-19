@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="df29da16-58d3-4463-aabe-df89efaa7629" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Configuration/TSconfig/pagetsconfig.ts" afterPath="$PROJECT_DIR$/Configuration/TSconfig/pagetsconfig.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css" afterPath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css.map" afterPath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss" afterPath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss" />
     </list>
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+              <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -680,11 +677,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495196458378</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="space above">
+      <created>1495197848013</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1495197848014</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5874000" />
+    <option name="totallyTimeSpent" value="5906000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1438" height="905" extended-state="0" />
@@ -723,7 +727,8 @@
     <MESSAGE value="affix scroll" />
     <MESSAGE value="ajaxloader" />
     <MESSAGE value="news settings" />
-    <option name="LAST_COMMIT_MESSAGE" value="news settings" />
+    <MESSAGE value="space above" />
+    <option name="LAST_COMMIT_MESSAGE" value="space above" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -914,7 +919,7 @@
     <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
           <folding />
         </state>
       </provider>
