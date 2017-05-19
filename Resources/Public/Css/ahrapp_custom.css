@@ -1,6 +1,8 @@
 @charset "UTF-8";
 .navbar.affix {
-  max-height: 100vh;
+  max-height: 100vh; }
+
+#contactbar {
   overflow-y: scroll; }
 
 span.important {

@@ -1,5 +1,8 @@
 .navbar.affix {
   max-height: 100vh;
+  //overflow-y: visible;
+}
+#contactbar {
   overflow-y: scroll;
 }
 
