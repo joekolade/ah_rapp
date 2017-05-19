@@ -1,4 +1,13 @@
 
+// EXT
+//
+
+// scriptmerger
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:scriptmerger/Configuration/constants.txt">
+// sourceopt
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:sourceopt/Configuration/TypoScript/constants.txt">
+
+
 // Site "Namespace"
 //
 

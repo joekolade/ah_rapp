@@ -11,3 +11,12 @@ page {
 //
 
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:ah_rapp/Configuration/TypoScript/bricks/resp_images.ts">
+
+
+// EXT
+//
+
+// scriptmerger
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:scriptmerger/Configuration/setup.txt">
+// sourceopt
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:sourceopt/Configuration/TypoScript/setup.txt">
