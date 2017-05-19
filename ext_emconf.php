@@ -27,8 +27,6 @@ $EM_CONF[$_EXTKEY] = array(
 			// Sysextensions
 			'opendocs' => '',
 			'recycler' => '',
-			//'rte_ckeditor' => '',
-            'rx_unrollsavebuttons' => '',
             'go_maps_ext' => '',
             'fsc_layout_wrap' => '',
             'lib_js_lazysizes' => '', // https://github.com/joekolade/lib_js_lazysizes
