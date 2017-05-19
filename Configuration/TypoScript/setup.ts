@@ -20,7 +20,7 @@ page {
 plugin.tx_news.settings {
     topNewsFirst = 1
 
-    list.media {
+    list.media.image {
         maxWidth = 330
         maxHeight = 320
     }
