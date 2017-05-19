@@ -8,20 +8,20 @@ tt_content.image.20.1 {
         key.field = layout
         # Default is responsive
         default = TEXT
-        default.value = class="img-responsive img-content" sizes="(min-width: 1140px) 1600px, (min-width: 992px) 1140px, (min-width: 768px) 992px, (min-width: 480px) 768px, (min-width: 320px) 480px, auto"
+        default.value = class="img-responsive img-content" sizes="(min-width: 1140px) 1600px, (min-width: 992px) 1140px, (min-width: 768px) 992px, (min-width: 480px) 768px, (min-width: 320px) 480w, auto"
         # Normal
         1 = TEXT
-        1.value = class="img-content" sizes="(min-width: 1140px) 1600px, (min-width: 992px) 1140px, (min-width: 768px) 992px, (min-width: 480px) 768px, (min-width: 320px) 480px, auto"
+        1.value = class="img-content" sizes="(min-width: 1140px) 1600px, (min-width: 992px) 1140px, (min-width: 768px) 992px, (min-width: 480px) 768px, (min-width: 320px) 480w, auto"
         # Rounded corners
         2 = TEXT
-        2.value = class="img-rounded img-content" sizes="(min-width: 1140px) 1600px, (min-width: 992px) 1140px, (min-width: 768px) 992px, (min-width: 480px) 768px, (min-width: 320px) 480px, auto"
+        2.value = class="img-rounded img-content" sizes="(min-width: 1140px) 1600px, (min-width: 992px) 1140px, (min-width: 768px) 992px, (min-width: 480px) 768px, (min-width: 320px) 480w, auto"
         3 = TEXT
-        3.value = class="img-rounded img-responsive img-content" sizes="(min-width: 1140px) 1600px, (min-width: 992px) 1140px, (min-width: 768px) 992px, (min-width: 480px) 768px, (min-width: 320px) 480px, auto"
+        3.value = class="img-rounded img-responsive img-content" sizes="(min-width: 1140px) 1600px, (min-width: 992px) 1140px, (min-width: 768px) 992px, (min-width: 480px) 768px, (min-width: 320px) 480w, auto"
         # Circle
         4 = TEXT
-        4.value = class="img-circle img-content" sizes="(min-width: 1140px) 1600px, (min-width: 992px) 1140px, (min-width: 768px) 992px, (min-width: 480px) 768px, (min-width: 320px) 480px, auto"
+        4.value = class="img-circle img-content" sizes="(min-width: 1140px) 1600px, (min-width: 992px) 1140px, (min-width: 768px) 992px, (min-width: 480px) 768px, (min-width: 320px) 480w, auto"
         5 = TEXT
-        5.value = class="img-circle img-responsive img-content" sizes="(min-width: 1140px) 1600px, (min-width: 992px) 1140px, (min-width: 768px) 992px, (min-width: 480px) 768px, (min-width: 320px) 480px, auto"
+        5.value = class="img-circle img-responsive img-content" sizes="(min-width: 1140px) 1600px, (min-width: 992px) 1140px, (min-width: 768px) 992px, (min-width: 480px) 768px, (min-width: 320px) 480w, auto"
     }
 
     # Default Breakpoints
