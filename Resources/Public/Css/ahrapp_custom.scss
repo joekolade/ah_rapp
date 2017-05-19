@@ -22,5 +22,12 @@ body .slick-slider.slider {
   margin-bottom: 2.5em;
 }
 
+// Fix ajaxloader
+body .slick-list {
+  .slick-loading & {
+    background-image: url("fileadmin/template_2015/dist/images/ajax-loader.gif");
+  }
+}
+
 @import "ext/ahrapp_powermail";
 @import "ext/tx_scwcontacts";
