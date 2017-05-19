@@ -21,7 +21,7 @@ plugin.tx_news.settings {
     topNewsFirst = 1
 
     list.media.image {
-        maxWidth = 330
+        maxWidth = 358
         maxHeight = 320
     }
 }
