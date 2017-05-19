@@ -1,26 +1,30 @@
+@charset "utf-8";
 
 /*
     Powermail customs
  */
 .tx-powermail .btn {
-    margin-left: 0;
+  margin-left: 0;
 }
+
 .tx-powermail .btn-group {
-    margin-bottom: 15px;
+  margin-bottom: 15px;
 }
 
 /* Tabs */
 
 .powermail_tab_navigation a {
-    text-transform: none !important;
+  text-transform: none !important;
 }
+
 .powermail_fieldset_1 .powermail_tab_navigation a:after {
-    content: ' zur\xC3ck';
+  content: ' zurück';
 }
 
 .powermail_fieldset_2 .powermail_tab_navigation a:before {
-    content: 'weiter ';
+  content: 'weiter ';
 }
+
 .powermail_fieldset:first-of-type .powermail_tab_navigation a {
-    margin-right: 17.666666%;
+  margin-right: 17.666666%;
 }

@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .navbar.affix {
   max-height: 100vh;
   overflow-y: scroll; }
@@ -27,7 +28,7 @@ body .slick-slider.slider {
   text-transform: none !important; }
 
 .powermail_fieldset_1 .powermail_tab_navigation a:after {
-  content: ' zur\xC3ck'; }
+  content: ' zurück'; }
 
 .powermail_fieldset_2 .powermail_tab_navigation a:before {
   content: 'weiter '; }
