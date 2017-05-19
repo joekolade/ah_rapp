@@ -38,6 +38,18 @@ plugin.tx_powermail {
     view.layoutRootPath = EXT:ah_rapp/Resources/Extensions/powermail/Layouts/
 }
 
+
+// ext:cookieconsent2
+//
+
+plugin.tx_cookieconsent2.settings {
+    link = 34
+    message = Diese Webseite verwendet Cookies, um korrekt zu funktionieren und Ihnen ein optimales Nutzererlebnis zu bieten. Wenn Sie damit einverstanden sind, setzen Sie Ihren Besuch der Seite fort, oder sehen Sie sich für weitere Informationen unser Impressum an.
+    dismiss = OK.
+    learnMore = Mehr erfahren
+}
+
+
 // ext:scriptmerger
 //
 

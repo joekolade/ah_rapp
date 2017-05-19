@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="df29da16-58d3-4463-aabe-df89efaa7629" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss" afterPath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Configuration/TypoScript/constants.ts" afterPath="$PROJECT_DIR$/Configuration/TypoScript/constants.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Configuration/TypoScript/setup.ts" afterPath="$PROJECT_DIR$/Configuration/TypoScript/setup.ts" />
     </list>
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,28 +21,28 @@
       <file leaf-file-name="constants.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/constants.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="28" column="42" lean-forward="false" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+            <state relative-caret-position="494">
+              <caret line="46" column="13" lean-forward="false" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ahrapp_custom.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ahrapp_custom.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+            <state relative-caret-position="435">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="setup.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="setup.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/setup.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="73" lean-forward="true" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
+            <state relative-caret-position="420">
+              <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -83,10 +84,10 @@
         <option value="$PROJECT_DIR$/Configuration/TypoScript/bricks/resp_images.ts" />
         <option value="$PROJECT_DIR$/Resources/Public/Css/ext/_ahrapp_powermail.scss" />
         <option value="$PROJECT_DIR$/Resources/Extensions/powermail/Partials/Form/Field/Check.html" />
-        <option value="$PROJECT_DIR$/Configuration/TypoScript/constants.ts" />
-        <option value="$PROJECT_DIR$/Configuration/TypoScript/setup.ts" />
         <option value="$PROJECT_DIR$/Configuration/TSconfig/pagetsconfig.ts" />
         <option value="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss" />
+        <option value="$PROJECT_DIR$/Configuration/TypoScript/constants.ts" />
+        <option value="$PROJECT_DIR$/Configuration/TypoScript/setup.ts" />
       </list>
     </option>
   </component>
@@ -684,11 +685,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495197848014</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="space above">
+      <created>1495197877497</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1495197877497</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5906000" />
+    <option name="totallyTimeSpent" value="6567000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1438" height="905" extended-state="0" />
@@ -892,22 +900,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/constants.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="28" column="42" lean-forward="false" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/setup.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="73" lean-forward="true" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Configuration/TSconfig/pagetsconfig.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -918,8 +910,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        <state relative-caret-position="435">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/constants.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="46" column="13" lean-forward="false" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/setup.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="17" lean-forward="false" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
           <folding />
         </state>
       </provider>

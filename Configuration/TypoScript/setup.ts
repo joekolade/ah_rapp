@@ -26,6 +26,14 @@ plugin.tx_news.settings {
     }
 }
 
+// cookieconsent2
+plugin.tx_cookieconsent2._LOCAL_LANG.de {
+    message = {$plugin.tx_cookieconsent2.settings.message}
+    dismiss = {$plugin.tx_cookieconsent2.settings.dismiss}
+    learnMore = {$plugin.tx_cookieconsent2.settings.learnMore}
+}
+
+
 // scriptmerger
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:scriptmerger/Configuration/setup.txt">
 // sourceopt
