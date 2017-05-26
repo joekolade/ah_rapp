@@ -19,7 +19,6 @@ $EM_CONF[$_EXTKEY] = array(
 			'bootstrap_grids' => '',
 			'mask' => '',
 			'realurl' => '',
-			'dd_googlesitemap' => '',
 			't3monitoring_client' => '',
 			'cs_seo' => '',
 			'sourceopt' => '',
@@ -34,6 +33,7 @@ $EM_CONF[$_EXTKEY] = array(
 			//'rtehtmlarea' => ''
 		),
 		'suggests' => array(
+			'dd_googlesitemap' => '',
 			'rx_unrollsavebuttons' => '',
 			'go_maps_ext' => '',
             'fluid_styled_content' => '',
