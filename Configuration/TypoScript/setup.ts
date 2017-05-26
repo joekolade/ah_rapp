@@ -25,6 +25,10 @@ plugin.tx_news.settings {
         maxHeight = 210
     }
     detailPid = 87
+
+    link {
+        skipControllerAndAction = 1
+    }
 }
 
 // cookieconsent2
