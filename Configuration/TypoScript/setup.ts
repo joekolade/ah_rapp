@@ -24,6 +24,7 @@ plugin.tx_news.settings {
         maxWidth = 230
         maxHeight = 210
     }
+    detailPid = 87
 }
 
 // cookieconsent2
