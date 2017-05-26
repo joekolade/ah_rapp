@@ -69,3 +69,6 @@ plugin.tx_scriptmerger.javascript.parseBody = 1
 sourceopt.enabled = 1
 sourceopt.formatHtml = 2
 sourceopt.formatHtml = 1
+
+// all ext setups
+<INCLUDE_TYPOSCRIPT: source="DIR:EXT:ah_rapp/Configuration/TypoScript/ext/" extensions="tsconst">

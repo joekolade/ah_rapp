@@ -38,3 +38,6 @@ plugin.tx_cookieconsent2._LOCAL_LANG.de {
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:scriptmerger/Configuration/setup.txt">
 // sourceopt
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:sourceopt/Configuration/TypoScript/setup.txt">
+
+// all ext setups
+<INCLUDE_TYPOSCRIPT: source="DIR:EXT:ah_rapp/Configuration/TypoScript/ext/" extensions="tssetup">
