@@ -31,8 +31,8 @@
       <file leaf-file-name="setup.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/setup.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+            <state relative-caret-position="470">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -380,13 +380,6 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task id="LOCAL-00006" summary="fsc">
-      <created>1495182195567</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1495182195567</updated>
-    </task>
     <task id="LOCAL-00007" summary="fsc">
       <created>1495182452899</created>
       <option name="number" value="00007" />
@@ -680,7 +673,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495834678598</updated>
-      <workItem from="1495834679802" duration="824000" />
+      <workItem from="1495834679802" duration="1039000" />
     </task>
     <task id="LOCAL-00048" summary="RTE.classesAnchor">
       <created>1495834778264</created>
@@ -731,11 +724,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495835543023</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="news detail pid">
+      <created>1495835732701</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1495835732701</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7672000" />
+    <option name="totallyTimeSpent" value="7887000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1438" height="836" extended-state="6" />
@@ -977,8 +977,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/setup.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="28" column="4" lean-forward="false" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        <state relative-caret-position="470">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>

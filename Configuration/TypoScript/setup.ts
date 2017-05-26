@@ -24,8 +24,11 @@ plugin.tx_news.settings {
         maxWidth = 230
         maxHeight = 210
     }
+
     detailPid = 87
 
+    displayDummyIfNoMedia = 0
+    detail.showSocialShareButtons = 0
     link {
         skipControllerAndAction = 1
     }
@@ -37,7 +40,6 @@ plugin.tx_cookieconsent2._LOCAL_LANG.de {
     dismiss = {$plugin.tx_cookieconsent2.settings.dismiss}
     learnMore = {$plugin.tx_cookieconsent2.settings.learnMore}
 }
-
 
 // scriptmerger
 <INCLUDE_TYPOSCRIPT: source="FILE:EXT:scriptmerger/Configuration/setup.txt">
