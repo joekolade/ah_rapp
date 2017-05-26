@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df29da16-58d3-4463-aabe-df89efaa7629" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Configuration/TypoScript/ext/tx_csseo.tssetup" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ext_tables.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Configuration/TypoScript/ext/tx_csseo.tssetup" afterPath="$PROJECT_DIR$/Configuration/TypoScript/ext/tx_csseo.tssetup" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,8 +31,8 @@
       <file leaf-file-name="tx_csseo.tssetup" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/ext/tx_csseo.tssetup">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            <state relative-caret-position="75">
+              <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -363,13 +362,6 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task id="LOCAL-00008" summary="fsc">
-      <created>1495182637497</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1495182637497</updated>
-    </task>
     <task id="LOCAL-00009" summary="fsc">
       <created>1495182659986</created>
       <option name="number" value="00009" />
@@ -649,7 +641,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495834678598</updated>
-      <workItem from="1495834679802" duration="1393000" />
+      <workItem from="1495834679802" duration="1474000" />
     </task>
     <task id="LOCAL-00048" summary="RTE.classesAnchor">
       <created>1495834778264</created>
@@ -714,11 +706,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495836144141</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="cs_Seo 4 news">
+      <created>1495836671798</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1495836671798</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8241000" />
+    <option name="totallyTimeSpent" value="8322000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1438" height="836" extended-state="6" />
@@ -769,7 +768,8 @@
     <MESSAGE value="TX news" />
     <MESSAGE value="slick slide caption" />
     <MESSAGE value="news detail pid" />
-    <option name="LAST_COMMIT_MESSAGE" value="news detail pid" />
+    <MESSAGE value="cs_Seo 4 news" />
+    <option name="LAST_COMMIT_MESSAGE" value="cs_Seo 4 news" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -976,8 +976,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/ext/tx_csseo.tssetup">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        <state relative-caret-position="75">
+          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
           <folding />
         </state>
       </provider>

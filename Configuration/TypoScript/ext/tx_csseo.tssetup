@@ -3,7 +3,7 @@ tx_csseo {
     1 = tx_news_domain_model_news
 
     # if the get parameter is set in the URL the cs_seo properties will be shown
-    1.enable = GP:tx_news_tx_myext_pi1|news
+    1.enable = GP:tx_news_pi1|news
 
     1.fallback {
         title = title
