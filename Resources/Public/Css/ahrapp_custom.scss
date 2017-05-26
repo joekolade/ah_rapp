@@ -20,6 +20,11 @@ div[class^="col-"] > div > .img-below:first-child > .img-wrap,
 // space out slider top
 body .slick-slider.slider {
   margin-bottom: 2.5em;
+
+  // Link color in slider
+  .slick-item figcaption a {
+    color: inherit;
+  }
 }
 .container {
   &.header + .content {
