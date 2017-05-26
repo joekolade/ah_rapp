@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df29da16-58d3-4463-aabe-df89efaa7629" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Configuration/TypoScript/ext/tx_news.tssetup" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Configuration/TypoScript/constants.ts" afterPath="$PROJECT_DIR$/Configuration/TypoScript/constants.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Configuration/TypoScript/setup.ts" afterPath="$PROJECT_DIR$/Configuration/TypoScript/setup.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Configuration/TypoScript/ext/tx_news.tssetup" afterPath="$PROJECT_DIR$/Configuration/TypoScript/ext/tx_news.tssetup" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/ext/tx_news.tssetup">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -717,7 +715,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495834678598</updated>
-      <workItem from="1495834679802" duration="356000" />
+      <workItem from="1495834679802" duration="422000" />
     </task>
     <task id="LOCAL-00048" summary="RTE.classesAnchor">
       <created>1495834778264</created>
@@ -726,11 +724,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495834778264</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="TX news">
+      <created>1495835140119</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1495835140119</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7204000" />
+    <option name="totallyTimeSpent" value="7270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1438" height="836" extended-state="6" />
@@ -778,7 +783,8 @@
     <MESSAGE value="space above" />
     <MESSAGE value="cookieconsent2" />
     <MESSAGE value="RTE.classesAnchor" />
-    <option name="LAST_COMMIT_MESSAGE" value="RTE.classesAnchor" />
+    <MESSAGE value="TX news" />
+    <option name="LAST_COMMIT_MESSAGE" value="TX news" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -968,7 +974,7 @@
     <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/ext/tx_news.tssetup">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
           <folding />
         </state>
       </provider>
