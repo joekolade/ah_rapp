@@ -16,7 +16,7 @@ div[class^="col-"] > div > .img-below:first-child > .img-wrap,
 
 body .slick-slider.slider {
   margin-bottom: 2.5em; }
-  body .slick-slider.slider .slick-item figcaption a {
+  body .slick-slider.slider .slick-slide figcaption a {
     color: inherit; }
 
 .container.header + .content {

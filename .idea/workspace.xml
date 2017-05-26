@@ -63,8 +63,8 @@
       <file leaf-file-name="ahrapp_custom.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+            <state relative-caret-position="360">
+              <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -392,13 +392,6 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task id="LOCAL-00003" summary="gitkeep">
-      <created>1495181560256</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1495181560256</updated>
-    </task>
     <task id="LOCAL-00004" summary="fsc">
       <created>1495181978958</created>
       <option name="number" value="00004" />
@@ -713,7 +706,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495834678598</updated>
-      <workItem from="1495834679802" duration="520000" />
+      <workItem from="1495834679802" duration="563000" />
     </task>
     <task id="LOCAL-00048" summary="RTE.classesAnchor">
       <created>1495834778264</created>
@@ -743,11 +736,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495835222536</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="TX news">
+      <created>1495835300495</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1495835300495</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7368000" />
+    <option name="totallyTimeSpent" value="7411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1438" height="836" extended-state="6" />
@@ -911,6 +911,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -986,8 +987,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        <state relative-caret-position="360">
+          <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
           <folding />
         </state>
       </provider>
