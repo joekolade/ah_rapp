@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df29da16-58d3-4463-aabe-df89efaa7629" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Configuration/TypoScript/ext/tx_csseo.tssetup" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Configuration/TypoScript/ext/tx_csseo.tsconst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Configuration/TSconfig/pagetsconfig.ts" afterPath="$PROJECT_DIR$/Configuration/TSconfig/pagetsconfig.ts" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,21 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ext_tables.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ext_tables.sql">
+      <file leaf-file-name="tx_csseo.tsconst" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/ext/tx_csseo.tsconst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="38" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pagetsconfig.ts" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Configuration/TSconfig/pagetsconfig.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="38" column="1" lean-forward="false" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+            <state relative-caret-position="75">
+              <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -72,6 +61,7 @@
         <option value="$PROJECT_DIR$/ext_tables.sql" />
         <option value="$PROJECT_DIR$/Configuration/TypoScript/ext/tx_csseo.tssetup" />
         <option value="$PROJECT_DIR$/Configuration/TSconfig/pagetsconfig.ts" />
+        <option value="$PROJECT_DIR$/Configuration/TypoScript/ext/tx_csseo.tsconst" />
       </list>
     </option>
   </component>
@@ -363,13 +353,6 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task id="LOCAL-00010" summary="responsive images">
-      <created>1495182761242</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1495182761242</updated>
-    </task>
     <task id="LOCAL-00011" summary="responsive images">
       <created>1495183000118</created>
       <option name="number" value="00011" />
@@ -635,7 +618,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495834678598</updated>
-      <workItem from="1495834679802" duration="1674000" />
+      <workItem from="1495834679802" duration="2291000" />
     </task>
     <task id="LOCAL-00048" summary="RTE.classesAnchor">
       <created>1495834778264</created>
@@ -714,11 +697,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495836749010</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="cs_Seo 4 news">
+      <created>1495837032545</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1495837032545</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8522000" />
+    <option name="totallyTimeSpent" value="9139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1438" height="836" extended-state="6" />
@@ -967,6 +957,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Configuration/TSconfig/pagetsconfig.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="48" lean-forward="true" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ext_tables.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -975,10 +973,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Configuration/TSconfig/pagetsconfig.ts">
+    <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/ext/tx_csseo.tsconst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="1" lean-forward="false" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        <state relative-caret-position="75">
+          <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
           <folding />
         </state>
       </provider>

@@ -1,0 +1,6 @@
+plugin.tx_csseo.sitemap.pages.rootPid = 44
+plugin.tx_csseo.social.defaultImage = fileadmin/files/Logos/Rapp_Schriftzug_RZ.svg
+plugin.tx_csseo.structureddata.search.enable = 0
+plugin.tx_csseo.structureddata.breadcrumb.enable = 0
+plugin.tx_csseo.hreflang.enable = 0
+plugin.tx_csseo.sitemap.extensions.news.detailPid = 87
