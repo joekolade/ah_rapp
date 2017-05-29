@@ -27,7 +27,7 @@ $(function () {
         autoplaySpeed: 3200,
         speed: 400,
         cssEase: 'ease-in',
-        lazyLoad: 'ondemand',
+        // lazyLoad: 'ondemand',
         // adaptiveHeight: true,
         dots: true,
         arrows: true,
