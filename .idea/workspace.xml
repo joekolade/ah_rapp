@@ -410,13 +410,6 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task id="LOCAL-00015" summary="responsive images">
-      <created>1495183626113</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1495183626113</updated>
-    </task>
     <task id="LOCAL-00016" summary="responsive images">
       <created>1495183773845</created>
       <option name="number" value="00016" />
@@ -649,7 +642,7 @@
       <updated>1495834678598</updated>
       <workItem from="1495834679802" duration="2522000" />
       <workItem from="1496071123158" duration="368000" />
-      <workItem from="1496083724561" duration="466000" />
+      <workItem from="1496083724561" duration="504000" />
     </task>
     <task id="LOCAL-00048" summary="RTE.classesAnchor">
       <created>1495834778264</created>
@@ -763,11 +756,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496071481626</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="css compress">
+      <created>1496084828184</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1496084828184</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10204000" />
+    <option name="totallyTimeSpent" value="10242000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1438" height="836" extended-state="0" />
@@ -822,7 +822,8 @@
     <MESSAGE value="cs_Seo basic" />
     <MESSAGE value="no more dd_google" />
     <MESSAGE value="news ie fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="news ie fix" />
+    <MESSAGE value="css compress" />
+    <option name="LAST_COMMIT_MESSAGE" value="css compress" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
