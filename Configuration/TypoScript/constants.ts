@@ -54,7 +54,7 @@ plugin.tx_cookieconsent2.settings {
 //
 
 plugin.tx_scriptmerger.css.enable = 1
-plugin.tx_scriptmerger.css.compress.enable = 0
+plugin.tx_scriptmerger.css.compress.enable = 1
 #plugin.tx_scriptmerger.css.merge.ignore = https://fonts.googleapis.com/
 #plugin.tx_scriptmerger.css.compress.ignore = https://fonts.googleapis.com/css
 
