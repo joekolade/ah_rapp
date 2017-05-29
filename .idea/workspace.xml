@@ -42,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/Resources/Public/JavaScript/ahrapp_script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
-              <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+              <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -473,13 +473,6 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task id="LOCAL-00024" summary="responsive images">
-      <created>1495185273505</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1495185273505</updated>
-    </task>
     <task id="LOCAL-00025" summary="scriptmerger">
       <created>1495186242621</created>
       <option name="number" value="00025" />
@@ -649,7 +642,7 @@
       <updated>1495834678598</updated>
       <workItem from="1495834679802" duration="2522000" />
       <workItem from="1496071123158" duration="368000" />
-      <workItem from="1496083724561" duration="2965000" />
+      <workItem from="1496083724561" duration="3016000" />
     </task>
     <task id="LOCAL-00048" summary="RTE.classesAnchor">
       <created>1495834778264</created>
@@ -826,11 +819,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496088942352</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="no more lazy slick">
+      <created>1496088962713</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1496088962713</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12703000" />
+    <option name="totallyTimeSpent" value="12754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1438" height="836" extended-state="0" />
@@ -1108,7 +1108,7 @@
     <entry file="file://$PROJECT_DIR$/Resources/Public/JavaScript/ahrapp_script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
           <folding />
         </state>
       </provider>
