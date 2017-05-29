@@ -28,7 +28,6 @@ styles.content.imgtext.layoutKey = picture
 styles.content.imgtext.maxWInText = 1140
 styles.content.textmedia.maxWInText = 1140
 
-
 // ext:powermail
 //
 
@@ -37,7 +36,6 @@ plugin.tx_powermail {
     view.partialRootPath = EXT:ah_rapp/Resources/Extensions/powermail/Partials/
     view.layoutRootPath = EXT:ah_rapp/Resources/Extensions/powermail/Layouts/
 }
-
 
 // ext:cookieconsent2
 //
@@ -49,18 +47,45 @@ plugin.tx_cookieconsent2.settings {
     learnMore = Mehr erfahren
 }
 
-
 // ext:scriptmerger
 //
 
-plugin.tx_scriptmerger.css.enable = 1
-plugin.tx_scriptmerger.css.compress.enable = 0
+plugin.tx_scriptmerger {
+    css {
+        enable = 1
+        compress {
+            enable = 1
+            ignore = \.gz\.
+        }
+
+        merge {
+            enable = 1
+            ignore =
+        }
+    }
+    javascript {
+        minify {
+            enable = 1
+            ignore = \?,\.min\.
+        }
+        compress {
+            enable = 1
+            ignore = \?,\.gz\.
+        }
+        merge {
+            enable = 1
+            ignore = \?
+        }
+        parseBody = 1
+    }
+}
+
 #plugin.tx_scriptmerger.css.merge.ignore = https://fonts.googleapis.com/
 #plugin.tx_scriptmerger.css.compress.ignore = https://fonts.googleapis.com/css
 
-plugin.tx_scriptmerger.javascript.enable = 1
-plugin.tx_scriptmerger.javascript.compress.enable = 0
-plugin.tx_scriptmerger.javascript.parseBody = 1
+
+
+
 
 // ext:sourceopt
 //
