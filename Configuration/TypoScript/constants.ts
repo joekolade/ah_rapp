@@ -10,6 +10,8 @@
 // Site "Namespace"
 //
 
+config.domain = www.autohaus-rapp.com
+
 ah_rapp {
     settings {
         contactform.pid = 95
