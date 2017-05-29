@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="df29da16-58d3-4463-aabe-df89efaa7629" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Configuration/TypoScript/setup.ts" afterPath="$PROJECT_DIR$/Configuration/TypoScript/setup.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/JavaScript/ahrapp_script.js" afterPath="$PROJECT_DIR$/Resources/Public/JavaScript/ahrapp_script.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,7 +28,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="setup.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="setup.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/setup.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -38,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ahrapp_script.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ahrapp_script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Resources/Public/JavaScript/ahrapp_script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+            <state relative-caret-position="450">
+              <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -106,8 +106,8 @@
         <option value="$PROJECT_DIR$/ext_emconf.php" />
         <option value="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss" />
         <option value="$PROJECT_DIR$/Configuration/TypoScript/constants.ts" />
-        <option value="$PROJECT_DIR$/Resources/Public/JavaScript/ahrapp_script.js" />
         <option value="$PROJECT_DIR$/Configuration/TypoScript/setup.ts" />
+        <option value="$PROJECT_DIR$/Resources/Public/JavaScript/ahrapp_script.js" />
       </list>
     </option>
   </component>
@@ -473,13 +473,6 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task id="LOCAL-00023" summary="responsive images">
-      <created>1495185199017</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1495185199017</updated>
-    </task>
     <task id="LOCAL-00024" summary="responsive images">
       <created>1495185273505</created>
       <option name="number" value="00024" />
@@ -656,7 +649,7 @@
       <updated>1495834678598</updated>
       <workItem from="1495834679802" duration="2522000" />
       <workItem from="1496071123158" duration="368000" />
-      <workItem from="1496083724561" duration="2949000" />
+      <workItem from="1496083724561" duration="2965000" />
     </task>
     <task id="LOCAL-00048" summary="RTE.classesAnchor">
       <created>1495834778264</created>
@@ -826,11 +819,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496088885676</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="no more lazy slick">
+      <created>1496088942352</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1496088942352</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12687000" />
+    <option name="totallyTimeSpent" value="12703000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1438" height="836" extended-state="0" />
@@ -1097,18 +1097,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Public/JavaScript/ahrapp_script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/setup.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Public/JavaScript/ahrapp_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
           <folding />
         </state>
       </provider>
