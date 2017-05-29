@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df29da16-58d3-4463-aabe-df89efaa7629" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Resources/Public/JavaScript/ahrapp_script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Configuration/TypoScript/setup.ts" afterPath="$PROJECT_DIR$/Configuration/TypoScript/setup.ts" />
     </list>
@@ -23,37 +22,7 @@
         <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/setup.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
-              <caret line="4" column="78" lean-forward="false" selection-start-line="4" selection-start-column="78" selection-end-line="4" selection-end-column="78" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="constants.ts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/constants.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MediaGallery.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Resources/Extensions/fsc/Partials/MediaGallery.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="65" column="24" lean-forward="true" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ahrapp_script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Resources/Public/JavaScript/ahrapp_script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+              <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -480,13 +449,6 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task id="LOCAL-00019" summary="responsive images">
-      <created>1495184339291</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1495184339291</updated>
-    </task>
     <task id="LOCAL-00020" summary="responsive images">
       <created>1495184515118</created>
       <option name="number" value="00020" />
@@ -691,7 +653,7 @@
       <updated>1495834678598</updated>
       <workItem from="1495834679802" duration="2522000" />
       <workItem from="1496071123158" duration="368000" />
-      <workItem from="1496083724561" duration="1353000" />
+      <workItem from="1496083724561" duration="1787000" />
     </task>
     <task id="LOCAL-00048" summary="RTE.classesAnchor">
       <created>1495834778264</created>
@@ -833,11 +795,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496085263949</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Inklude JS">
+      <created>1496086101355</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1496086101355</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11091000" />
+    <option name="totallyTimeSpent" value="11525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1438" height="836" extended-state="0" />
@@ -893,7 +862,8 @@
     <MESSAGE value="no more dd_google" />
     <MESSAGE value="news ie fix" />
     <MESSAGE value="css compress" />
-    <option name="LAST_COMMIT_MESSAGE" value="css compress" />
+    <MESSAGE value="Inklude JS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inklude JS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1071,14 +1041,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/constants.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/bricks/resp_images.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -1088,6 +1050,14 @@
           <caret line="18" column="201" lean-forward="true" selection-start-line="18" selection-start-column="201" selection-end-line="18" selection-end-column="203" />
           <caret line="21" column="185" lean-forward="true" selection-start-line="21" selection-start-column="185" selection-end-line="21" selection-end-column="187" />
           <caret line="23" column="200" lean-forward="true" selection-start-line="23" selection-start-column="200" selection-end-line="23" selection-end-column="202" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/constants.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -1111,7 +1081,7 @@
     <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/setup.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="78" lean-forward="false" selection-start-line="4" selection-start-column="78" selection-end-line="4" selection-end-column="78" />
+          <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
           <folding />
         </state>
       </provider>
