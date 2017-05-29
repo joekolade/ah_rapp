@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df29da16-58d3-4463-aabe-df89efaa7629" name="Default" comment="">
+    <list default="true" id="df29da16-58d3-4463-aabe-df89efaa7629" name="Default" comment="no more dd_google">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ext_emconf.php" afterPath="$PROJECT_DIR$/ext_emconf.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css" afterPath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css.map" afterPath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss" afterPath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,26 +20,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tx_csseo.tsconst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/ext/tx_csseo.tsconst">
+      <file leaf-file-name="ahrapp_custom.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+            <state relative-caret-position="470">
+              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ext_emconf.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ext_emconf.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="24" lean-forward="false" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-              <folding>
-                <marker date="1495839310000" expanded="true" signature="379:875" ph="..." />
-                <marker date="1495839310000" expanded="true" signature="785:787" ph="..." />
-                <marker date="1495839310000" expanded="true" signature="875:1149" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -54,7 +42,28 @@
       <find>zurüc</find>
       <find>zurü</find>
       <find>zur</find>
+      <find>new</find>
+      <find>news-</find>
+      <find>news-im</find>
+      <find>news-ima</find>
+      <find>news-imag</find>
+      <find>news-image</find>
+      <find>news-image-</find>
+      <find>news-image-w</find>
+      <find>news-image-wra</find>
+      <find>news-image-wrap</find>
+      <find>n</find>
+      <find>news-img-</find>
+      <find>news-img-w</find>
+      <find>news-img-wr</find>
+      <find>news-img-wra</find>
+      <find>news-img-wrap</find>
+      <find>news-img</find>
+      <find>.news-img</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,13 +78,13 @@
         <option value="$PROJECT_DIR$/Resources/Extensions/powermail/Partials/Form/Field/Check.html" />
         <option value="$PROJECT_DIR$/Configuration/TypoScript/constants.ts" />
         <option value="$PROJECT_DIR$/Configuration/TypoScript/ext/tx_news.tssetup" />
-        <option value="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss" />
         <option value="$PROJECT_DIR$/Configuration/TypoScript/setup.ts" />
         <option value="$PROJECT_DIR$/ext_tables.sql" />
         <option value="$PROJECT_DIR$/Configuration/TypoScript/ext/tx_csseo.tssetup" />
         <option value="$PROJECT_DIR$/Configuration/TSconfig/pagetsconfig.ts" />
         <option value="$PROJECT_DIR$/Configuration/TypoScript/ext/tx_csseo.tsconst" />
         <option value="$PROJECT_DIR$/ext_emconf.php" />
+        <option value="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss" />
       </list>
     </option>
   </component>
@@ -106,6 +115,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -155,6 +165,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ah_rapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ah_rapp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ext" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -273,7 +309,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -367,13 +402,6 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task id="LOCAL-00012" summary="responsive images">
-      <created>1495183049794</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1495183049794</updated>
-    </task>
     <task id="LOCAL-00013" summary="responsive images">
       <created>1495183320830</created>
       <option name="number" value="00013" />
@@ -625,7 +653,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495834678598</updated>
-      <workItem from="1495834679802" duration="2353000" />
+      <workItem from="1495834679802" duration="2522000" />
+      <workItem from="1496071123158" duration="208000" />
     </task>
     <task id="LOCAL-00048" summary="RTE.classesAnchor">
       <created>1495834778264</created>
@@ -718,20 +747,28 @@
       <option name="project" value="LOCAL" />
       <updated>1495839253928</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="no more dd_google">
+      <created>1495839316692</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1495839316692</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9201000" />
+    <option name="totallyTimeSpent" value="9578000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1438" height="836" extended-state="6" />
+    <frame x="0" y="22" width="1438" height="836" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23853868" sideWeight="0.48462483" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24212034" sideWeight="0.48462483" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296433" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293011" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24949084" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -744,7 +781,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -775,7 +811,8 @@
     <MESSAGE value="news detail pid" />
     <MESSAGE value="cs_Seo 4 news" />
     <MESSAGE value="cs_Seo basic" />
-    <option name="LAST_COMMIT_MESSAGE" value="cs_Seo basic" />
+    <MESSAGE value="no more dd_google" />
+    <option name="LAST_COMMIT_MESSAGE" value="no more dd_google" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -874,7 +911,6 @@
           <caret line="18" column="201" lean-forward="true" selection-start-line="18" selection-start-column="201" selection-end-line="18" selection-end-column="203" />
           <caret line="21" column="185" lean-forward="true" selection-start-line="21" selection-start-column="185" selection-end-line="21" selection-end-column="187" />
           <caret line="23" column="200" lean-forward="true" selection-start-line="23" selection-start-column="200" selection-end-line="23" selection-end-column="202" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -890,7 +926,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -898,7 +933,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -906,7 +940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -921,14 +954,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="66" lean-forward="true" selection-start-line="7" selection-start-column="66" selection-end-line="7" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="14" lean-forward="false" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -952,18 +977,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="605">
           <caret line="73" column="95" lean-forward="false" selection-start-line="73" selection-start-column="95" selection-end-line="73" selection-end-column="95" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/ext/tx_csseo.tssetup">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/ext/tx_csseo.tssetup" />
     <entry file="file://$PROJECT_DIR$/Configuration/TSconfig/pagetsconfig.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -980,14 +997,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/ext/tx_csseo.tsconst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ext_emconf.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -997,6 +1006,22 @@
             <marker date="1495839310000" expanded="true" signature="785:787" ph="..." />
             <marker date="1495839310000" expanded="true" signature="875:1149" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/ext/tx_csseo.tsconst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="54" lean-forward="false" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
