@@ -22,7 +22,7 @@ body .slick-slider.slider {
 .container.header + .content {
   margin-top: 2.5em; }
 
-.panel-body .news.article .news-img-wrap img {
+.panel-body .news .article .news-img-wrap img {
   width: 100%; }
 
 /*

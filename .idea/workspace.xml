@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df29da16-58d3-4463-aabe-df89efaa7629" name="Default" comment="no more dd_google">
+    <list default="true" id="df29da16-58d3-4463-aabe-df89efaa7629" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css" afterPath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css.map" afterPath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css.map" />
@@ -23,8 +23,8 @@
       <file leaf-file-name="ahrapp_custom.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+            <state relative-caret-position="515">
+              <caret line="37" column="8" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -402,13 +402,6 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task id="LOCAL-00013" summary="responsive images">
-      <created>1495183320830</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1495183320830</updated>
-    </task>
     <task id="LOCAL-00014" summary="responsive images">
       <created>1495183524884</created>
       <option name="number" value="00014" />
@@ -654,7 +647,7 @@
       <option name="presentableId" value="Default" />
       <updated>1495834678598</updated>
       <workItem from="1495834679802" duration="2522000" />
-      <workItem from="1496071123158" duration="208000" />
+      <workItem from="1496071123158" duration="280000" />
     </task>
     <task id="LOCAL-00048" summary="RTE.classesAnchor">
       <created>1495834778264</created>
@@ -754,11 +747,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495839316692</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="news ie fix">
+      <created>1496071395696</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1496071395697</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9578000" />
+    <option name="totallyTimeSpent" value="9650000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1438" height="836" extended-state="0" />
@@ -812,7 +812,8 @@
     <MESSAGE value="cs_Seo 4 news" />
     <MESSAGE value="cs_Seo basic" />
     <MESSAGE value="no more dd_google" />
-    <option name="LAST_COMMIT_MESSAGE" value="no more dd_google" />
+    <MESSAGE value="news ie fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="news ie fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1019,8 +1020,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        <state relative-caret-position="515">
+          <caret line="37" column="8" lean-forward="false" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
           <folding />
         </state>
       </provider>
