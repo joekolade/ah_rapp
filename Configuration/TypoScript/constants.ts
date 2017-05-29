@@ -54,7 +54,7 @@ plugin.tx_scriptmerger {
     css {
         enable = 1
         compress {
-            enable = 1
+            enable = 0
             ignore = \.gz\.
         }
 
@@ -69,7 +69,7 @@ plugin.tx_scriptmerger {
             ignore = \?,\.min\.
         }
         compress {
-            enable = 1
+            enable = 0
             ignore = \?,\.gz\.
         }
         merge {
