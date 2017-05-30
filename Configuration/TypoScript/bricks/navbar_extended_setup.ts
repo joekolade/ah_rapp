@@ -4,3 +4,7 @@ lib.facebook {
     typolink.ATagParams = class="btn faceboooohoook pull-right" target="_blank"
     value = <i class="fa fa-facebook"></i>
 }
+
+lib.navbar {
+    20.10 >
+}
