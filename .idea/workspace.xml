@@ -21,8 +21,8 @@
       <file leaf-file-name="navbar_extended_setup.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/bricks/navbar_extended_setup.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            <state relative-caret-position="105">
+              <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -484,13 +484,6 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task id="LOCAL-00033" summary="powermail template">
-      <created>1495186968297</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1495186968297</updated>
-    </task>
     <task id="LOCAL-00034" summary="powermail template">
       <created>1495187017426</created>
       <option name="number" value="00034" />
@@ -598,7 +591,7 @@
       <workItem from="1495834679802" duration="2522000" />
       <workItem from="1496071123158" duration="368000" />
       <workItem from="1496083724561" duration="4174000" />
-      <workItem from="1496174582784" duration="1394000" />
+      <workItem from="1496174582784" duration="1454000" />
     </task>
     <task id="LOCAL-00048" summary="RTE.classesAnchor">
       <created>1495834778264</created>
@@ -838,11 +831,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496178971967</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Facebook Button">
+      <created>1496179034953</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1496179034953</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15306000" />
+    <option name="totallyTimeSpent" value="15366000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1438" height="836" extended-state="6" />
@@ -1121,8 +1121,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/bricks/navbar_extended_setup.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding />
         </state>
       </provider>

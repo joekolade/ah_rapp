@@ -5,6 +5,4 @@ lib.facebook {
     value = <i class="fa fa-facebook"></i>
 }
 
-lib.navbar {
-    20.10 >
-}
+lib.navbar.20.10 >
