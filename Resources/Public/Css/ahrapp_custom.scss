@@ -49,6 +49,10 @@ body .slick-slider.slider {
   font-size: 1.5rem;
   color: white;
   padding: 6px 16px;
+
+  &:hover {
+    color: #222;
+  }
 }
 
 @import "ext/ahrapp_powermail";
