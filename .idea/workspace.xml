@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="df29da16-58d3-4463-aabe-df89efaa7629" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css" afterPath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css.map" afterPath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss" afterPath="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Configuration/TypoScript/bricks/navbar_extended_setup.ts" afterPath="$PROJECT_DIR$/Configuration/TypoScript/bricks/navbar_extended_setup.ts" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,17 +18,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="navbar_extended_setup.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="navbar_extended_setup.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/bricks/navbar_extended_setup.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            <state relative-caret-position="45">
+              <caret line="3" column="79" lean-forward="false" selection-start-line="3" selection-start-column="79" selection-end-line="3" selection-end-column="79" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ahrapp_custom.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ahrapp_custom.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="545">
@@ -108,9 +106,9 @@
         <option value="$PROJECT_DIR$/ext_emconf.php" />
         <option value="$PROJECT_DIR$/Configuration/TypoScript/constants.ts" />
         <option value="$PROJECT_DIR$/Resources/Public/JavaScript/ahrapp_script.js" />
-        <option value="$PROJECT_DIR$/Configuration/TypoScript/bricks/navbar_extended_setup.ts" />
         <option value="$PROJECT_DIR$/Configuration/TypoScript/setup.ts" />
         <option value="$PROJECT_DIR$/Resources/Public/Css/ahrapp_custom.scss" />
+        <option value="$PROJECT_DIR$/Configuration/TypoScript/bricks/navbar_extended_setup.ts" />
       </list>
     </option>
   </component>
@@ -476,13 +474,6 @@
     <configuration />
   </component>
   <component name="TaskManager">
-    <task id="LOCAL-00029" summary="sourceopt + scriptmerger">
-      <created>1495186463930</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1495186463930</updated>
-    </task>
     <task id="LOCAL-00030" summary="fix 'ü'">
       <created>1495186556134</created>
       <option name="number" value="00030" />
@@ -618,7 +609,7 @@
       <workItem from="1495834679802" duration="2522000" />
       <workItem from="1496071123158" duration="368000" />
       <workItem from="1496083724561" duration="4174000" />
-      <workItem from="1496174582784" duration="835000" />
+      <workItem from="1496174582784" duration="865000" />
     </task>
     <task id="LOCAL-00048" summary="RTE.classesAnchor">
       <created>1495834778264</created>
@@ -830,11 +821,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496178166718</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="Facebook Button">
+      <created>1496178211071</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1496178211071</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14747000" />
+    <option name="totallyTimeSpent" value="14777000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1438" height="836" extended-state="6" />
@@ -1094,14 +1092,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/bricks/navbar_extended_setup.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/setup.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
@@ -1114,6 +1104,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="545">
           <caret line="45" column="5" lean-forward="false" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Configuration/TypoScript/bricks/navbar_extended_setup.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="79" lean-forward="false" selection-start-line="3" selection-start-column="79" selection-end-line="3" selection-end-column="79" />
           <folding />
         </state>
       </provider>
