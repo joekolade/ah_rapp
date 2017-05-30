@@ -54,6 +54,14 @@ body .slick-slider.slider {
     color: #222;
   }
 }
+@media screen and (min-width: 768px) {
+  #sti1 a.faceboooohoook {
+    margin-right: 0;
+    margin-left: 0;
+    padding: 6px 12px;
+  }
+}
+
 
 @import "ext/ahrapp_powermail";
 @import "ext/tx_scwcontacts";

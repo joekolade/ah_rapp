@@ -34,6 +34,11 @@ body .slick-slider.slider {
   #sti1 a.faceboooohoook:hover {
     color: #222; }
 
+@media screen and (min-width: 768px) {
+  #sti1 a.faceboooohoook {
+    margin-right: 0;
+    margin-left: 0;
+    padding: 6px 12px; } }
 /*
     Powermail customs
  */
