@@ -49,3 +49,9 @@ plugin.tx_cookieconsent2._LOCAL_LANG.de {
 
 // all ext setups
 <INCLUDE_TYPOSCRIPT: source="DIR:EXT:ah_rapp/Configuration/TypoScript/ext/" extensions="tssetup">
+
+
+// facebook
+//
+
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:ah_rapp/Configuration/TypoScript/bricks/navbar_extended_setup.ts">
